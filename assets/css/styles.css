@@ -1,0 +1,28 @@
+.hero-content h1 {
+    margin-bottom: 0;
+}
+
+.hero-content h2 {
+    margin-top: 0;
+    min-height: 1.5em; /* Adjust this value as needed */
+}
+
+#typed-text {
+    border-bottom: 3px solid #007bff;
+}
+
+.text-uppercase fw-bold {
+    color: #007bff !important;
+    font-weight: normal !important;
+}
+
+.hero-bold-text{
+    color: #ffffff;
+    font-weight: bold;
+    padding-bottom: 50px;
+}
+.view-product{
+    color: aqua;
+    background-color: #ffffff;
+    padding: 10px;
+}
